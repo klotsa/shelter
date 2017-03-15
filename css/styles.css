@@ -1,0 +1,10 @@
+img {
+  width: 70%;
+}
+
+.column1, .column2, .column3, .column4 {
+  float:left;
+  width: 20%;
+  padding: 20px;
+  margin:10px;
+}
