@@ -1,4 +1,6 @@
 img {
+  display: block;
+  margin:auto;
   width: 70%;
 }
 
@@ -19,6 +21,6 @@ img {
 @media screen and (max-width: 480px)  {
   body {
     background: #000000;
-    color: #ffff00;
+    color: #ffffff;
   }
 }
